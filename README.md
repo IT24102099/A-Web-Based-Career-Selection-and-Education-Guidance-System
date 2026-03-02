@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Career Guidance MERN Starter (Email/Password + Google OAuth)
 
 This is a full MERN-stack starter that includes:
@@ -55,6 +54,3 @@ npm run dev
   - httpOnly cookies instead of localStorage
   - stricter CORS, rate limiting, CSRF protections
   - email verification and password reset flows
-=======
-# -Web---Based-Career-Selection-Education-System.-
->>>>>>> ff43b6b04b1477969fb0a82f2c98dec6c3933d5f
